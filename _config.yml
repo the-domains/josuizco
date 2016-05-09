@@ -1,0 +1,28 @@
+name: JosuIzco
+favicon: null
+layout_spectrum: 0.5012019050773233
+typography_spectrum: 0.5933853641618043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8476041329558939
+  lightness: 0.3049753380473703
+  saturation: 0.7009042568970472
+  rhythmicContrast: 0.2607154028955847
+purpose: []
