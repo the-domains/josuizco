@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[JosuIzco]]></title>
-        <description><![CDATA[JosuIzco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Josu Izco (Clarinetist) : contemporary/classical/free-impro]]></title>
+        <description><![CDATA[Josu Izco (Clarinetist) : contemporary/classical/free-impro]]></description>
+        <link>https://thegrid.ai/josuizco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 15:04:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 15:08:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josuizco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Repertoire]]></title>
+            <description><![CDATA[<p>sdfasf</p>]]></description>
+            <link>https://thegrid.ai/josuizco/repertoire/index.html</link>
+            <guid isPermaLink="false">bf1a345b-2408-420a-afcd-ef8139779cd4</guid>
+            <pubDate>Mon, 09 May 2016 15:07:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BIO]]></title>
             <description><![CDATA[<p>vioeaurnvoierunverv</p>]]></description>
-            <link>undefinedbio/index.html</link>
+            <link>https://thegrid.ai/josuizco/bio/index.html</link>
             <guid isPermaLink="false">bd8454a2-aca5-4b84-8d14-1894ce5f9f0e</guid>
             <pubDate>Mon, 09 May 2016 15:04:11 GMT</pubDate>
         </item>
